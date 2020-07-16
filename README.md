@@ -1,6 +1,8 @@
 **🤓 Aplicación front de Rick and Morty 🤓**
 
-Link de implementación:  https://rickandmorty-283205.uc.r.appspot.com/
+Link de implementación versión 1:  https://rickandmorty-283205.uc.r.appspot.com/
+
+Link de implementación versión 2: https://rickandmortygendra.uc.r.appspot.com
 
 **Justificación:**
 
